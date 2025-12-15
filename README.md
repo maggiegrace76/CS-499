@@ -11,10 +11,10 @@ The artifacts included in this portfolio have been enhanced to align with progra
 
 This ePortfolio includes the following required components:
 
-- Professional self-assessment
-- Informal code review video
-- Original and enhanced technical artifacts
-- Written narratives describing enhancements and outcome alignment
+- Professional self-assessment  
+- Informal code review video  
+- Original and enhanced technical artifacts  
+- Written narratives describing enhancements and outcome alignment  
 
 The artifacts demonstrate proficiency in:
 
@@ -26,31 +26,31 @@ The artifacts demonstrate proficiency in:
 
 ## Portfolio Contents
 
-### 🔹 Professional Self-Assessment  
-A reflective summary of my academic journey, professional goals, and technical strengths developed throughout the Computer Science program.
+### ▹ Professional Self-Assessment  
+A reflective summary of my academic journey, professional goals, and technical strengths developed throughout the Computer Science program. This section serves as a holistic introduction to my portfolio.
 
-📁 [Self Assessment](Self%20Assessment/)
-
----
-
-### 🔹 Code Review  
-An informal video walkthrough analyzing the original artifacts, identifying areas for improvement, and outlining enhancement plans aligned with course outcomes.
-
-📁 [Code Review](Code%20Review/)
+▸ 📁 [Self Assessment](Self%20Assessment/)
 
 ---
 
-### 🔹 CS360 Mobile App — Software Design & Engineering  
-An enhanced Android mobile application demonstrating UI design, activity lifecycle management, user authentication, and persistent data storage.
+### ▹ Code Review  
+An informal video walkthrough analyzing the original artifacts, identifying areas for improvement, and outlining enhancement plans aligned with course outcomes and professional standards.
 
-📁 [CS360 Mobile App](CS360%20Mobile%20App/)`
+▸ 📁 [Code Review](Code%20Review/)
 
 ---
 
-### 🔹 CS340 CRUD Database — Databases & Algorithms  
-A CRUD-based database artifact enhanced to demonstrate database integration, modular design, input validation, and algorithmic reasoning.
+### ▹ CS360 Mobile App — Software Design & Engineering  
+An enhanced Android mobile application demonstrating user interface design, activity lifecycle management, permissions handling, authentication logic, and persistent data storage using SQLite.
 
-📁 [CS340 CRUD Database](CS340%20CRUD%20Database/)`
+▸ 📁 [CS360 Mobile App](CS360%20Mobile%20App/)
+
+---
+
+### ▹ CS340 CRUD Database — Databases & Algorithms  
+A CRUD-based database artifact enhanced to demonstrate structured database integration, modular code organization, input validation, and efficient data handling aligned with algorithmic principles.
+
+▸ 📁 [CS340 CRUD Database](CS340%20CRUD%20Database/)
 
 ---
 
@@ -58,11 +58,11 @@ A CRUD-based database artifact enhanced to demonstrate database integration, mod
 
 This portfolio emphasizes the following competencies:
 
-- Object-oriented design and modular architecture
-- Algorithmic problem solving and data handling
-- Database design and CRUD operations
-- Secure coding practices and defensive programming
-- Professional documentation and communication
+- Object-oriented design and modular architecture  
+- Algorithmic problem solving and structured data handling  
+- Database design and full CRUD functionality  
+- Secure coding practices and defensive programming  
+- Professional documentation and technical communication  
 
 ---
 
@@ -71,9 +71,9 @@ This portfolio emphasizes the following competencies:
 **Maggie Dixon**  
 Bachelor of Science in Computer Science  
 Concentration: Data Analytics  
-Southern New Hampshire University
+Southern New Hampshire University  
 
-This ePortfolio reflects my readiness to enter the software development field and my ability to design, implement, and communicate effective computing solutions.
+This ePortfolio reflects my readiness to enter the software development field and demonstrates my ability to design, implement, and communicate effective computing solutions.
 
 ---
 
