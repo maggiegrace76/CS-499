@@ -1,4 +1,4 @@
-## Informal Code Review
+## Code Review
 
 ### Overview
 This section contains an informal code review completed as part of the CS 499 capstone project. The purpose of this review was to examine the original versions of selected artifacts, explain existing functionality, identify areas for improvement, and outline the enhancements later implemented for the final ePortfolio.
