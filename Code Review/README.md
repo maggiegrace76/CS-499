@@ -52,12 +52,14 @@ Each enhancement was selected to align with CS 499 course outcomes and professio
 ---
 
 ### Course Outcomes Alignment
-This code review supports the following CS 499 program outcomes:
 
-- Designing and evaluating computing solutions using professional standards
-- Communicating technical concepts clearly to diverse audiences
-- Applying a security mindset through defensive programming considerations
-- Using appropriate tools and techniques to improve existing software
+This code review and the resulting enhancements demonstrate my achievement of multiple CS 499 program outcomes through practical analysis, reflection, and implementation. First, I designed and evaluated computing solutions by reviewing existing application code, identifying limitations in structure, usability, and data handling, and proposing targeted enhancements aligned with professional software development standards. This process required evaluating trade-offs between simplicity, maintainability, and functionality while improving overall system design.
+
+Second, I demonstrated professional communication skills by clearly explaining the original functionality of each artifact, outlining areas for improvement, and justifying enhancement decisions in a way that could be understood by both technical and nontechnical audiences. The code review video and supporting documentation emphasize clarity, organization, and intentional design choices, which are essential for effective collaboration and stakeholder communication in real-world development environments.
+
+In addition, this work reflects the application of a security mindset through defensive programming considerations. During the review and enhancement planning, I identified potential risks related to user input, authentication logic, and data handling. Enhancements incorporated validation, controlled data access, and permission awareness to reduce the likelihood of misuse or unintended behavior, demonstrating an understanding of secure software design principles.
+
+Finally, this code review highlights my ability to use appropriate tools, techniques, and industry practices to improve existing software. By working within established development environments and refining application structure, database interactions, and logic flow, I delivered enhancements that add practical value while maintaining readability and scalability. Together, these efforts demonstrate my readiness to apply computer science principles in professional settings and contribute meaningfully to real-world software projects.
 
 ---
 
