@@ -29,28 +29,28 @@ The artifacts demonstrate proficiency in:
 ### 🔹 Professional Self-Assessment  
 A reflective summary of my academic journey, professional goals, and technical strengths developed throughout the Computer Science program.
 
-📁 `Self Assessment/`
+📁 [Self Assessment](Self%20Assessment/)
 
 ---
 
 ### 🔹 Code Review  
 An informal video walkthrough analyzing the original artifacts, identifying areas for improvement, and outlining enhancement plans aligned with course outcomes.
 
-📁 `Code Review/`
+📁 [Code Review](Code%20Review/)
 
 ---
 
 ### 🔹 CS360 Mobile App — Software Design & Engineering  
 An enhanced Android mobile application demonstrating UI design, activity lifecycle management, user authentication, and persistent data storage.
 
-📁 `CS360 Mobile App/`
+📁 [CS360 Mobile App](CS360%20Mobile%20App/)`
 
 ---
 
 ### 🔹 CS340 CRUD Database — Databases & Algorithms  
 A CRUD-based database artifact enhanced to demonstrate database integration, modular design, input validation, and algorithmic reasoning.
 
-📁 `CS340 CRUD Database/`
+📁 [CS340 CRUD Database](CS340%20CRUD%20Database/)`
 
 ---
 
